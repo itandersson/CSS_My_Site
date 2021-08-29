@@ -5,7 +5,16 @@ body {
 }
 
 h1 {
-  margin-top: 0;
+  font-family: 'Noto Serif JP', serif;
+}
+
+address {
+  font-family: 'Source Serif Pro', serif;
+}
+
+.text {
+  font-family: 'Patrick Hand', cursive;
+  font-size: large;
 }
 
 .cloud_image_1 {
@@ -20,11 +29,8 @@ h1 {
   top: 200px;
 }
 
-.top-container {
-}
+.top-container {}
 
-.middle-container {
-}
+.middle-container {}
 
-.bottom-container {
-}
+.bottom-container {}
