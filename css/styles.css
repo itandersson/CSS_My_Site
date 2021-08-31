@@ -6,6 +6,9 @@ body {
 
 h1 {
   font-family: 'Noto Serif JP', serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #66BFBF;
 }
 
 address {
@@ -15,6 +18,7 @@ address {
 .text {
   font-family: 'Patrick Hand', cursive;
   font-size: large;
+  color: #11999E;
 }
 
 .cloud_image_1 {
