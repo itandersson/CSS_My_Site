@@ -15,6 +15,26 @@ address {
   font-family: 'Source Serif Pro', serif;
 }
 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: blue;
+}
+
 .text {
   font-family: 'Patrick Hand', cursive;
   font-size: large;
