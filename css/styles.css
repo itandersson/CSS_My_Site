@@ -1,6 +1,5 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
 }
 
 h1 {
@@ -14,9 +13,21 @@ address {
   font-family: 'Source Serif Pro', serif;
 }
 
-footer {
+header {
+  width: 50%;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  margin: auto;
   text-align: center;
-  padding: 5px;
+  background-color: DarkSalmon;
+}
+
+footer {
+  width: 50%;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  margin: auto;
+  text-align: center;
   background-color: DarkSalmon;
   color: white;
 }
@@ -47,6 +58,7 @@ a:hover {
 
 .cloud_image_2 {
   position: relative;
+  top: 0.16rem;
   float: right;
 }
 
@@ -58,8 +70,10 @@ a:hover {
 .main-container {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+  border-width: thin;
+  border-color: DarkSalmon;
+  border-left-style: dotted;
+  border-right-style: dotted;
 }
 
 .top-container {}
